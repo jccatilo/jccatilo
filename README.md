@@ -1,3 +1,4 @@
+<!-- for img/icons, go to https://dev.to/envoy_/150-badges-for-github-pnk -->
 <h1 align="center">Hi there. I'm JC! 👋</h1>
 
 <div style="text-align: justify">
