@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on Arduino-related projects, network troubleshooting, machine learning, artificial intelligence, and some python works.
 - 💬 Ask me about ...
-- 📫 How to reach me: facebook.com/jccatilo07
+- 📫 How to reach me: catilo.johncarlo07@gmail.com twitter: @jc_catilo
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing instruments, taking care of my fish, and some environment-related stuff
 
