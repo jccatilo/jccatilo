@@ -8,7 +8,6 @@
   <a href="https://www.youtube.com/channel/UCQulXJXUUGHfMmgCGkEG4ZQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:catilo.johncarlo07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 <!--
 **jccatilo/jccatilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
