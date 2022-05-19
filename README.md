@@ -22,7 +22,7 @@
 - ⚡ Fun fact: I like playing instruments, taking care of my fish, and some environment-related stuff
 
 
-<h4>My Github statistics</h4>
+<h4>My Github Statistics</h4>
 <table cellspacing="0" cellpadding="0">
   <tr>
     <td>
