@@ -22,6 +22,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing instruments, taking care of my fish, and some environment-related stuff
 
+<h1></h1>
+
+<h4>Operating systems</h4>
+<img src ="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+
 
 <h4>My Github Statistics</h4>
 <table cellspacing="0" cellpadding="0">
