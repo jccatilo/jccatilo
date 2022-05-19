@@ -1,6 +1,6 @@
 <h1 align="center">Hi there. I'm JC! 👋</h1>
 
-<div style="text-align: justify"  class = text-indent: 10px>
+<div style="text-align: justify">
   I'm a Filipino Electronics Engineer who does hardware (3D modelling, 3D printing, design and fabrication of Electronic circuits) and software (Web, Arduino, Python, and Android) development. Let's make the world a better place through automation and innovation.
   </div>
 <h1 align="center"></h1>
