@@ -68,9 +68,6 @@
 <img src ="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src ="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src ="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src ="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src ="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">&nbsp;&nbsp;&nbsp;&nbsp;
   <p>
 <h1></h1>
 
