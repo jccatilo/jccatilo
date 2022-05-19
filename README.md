@@ -21,3 +21,32 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like playing instruments, taking care of my fish, and some environment-related stuff
 
+
+<h4>My Github statistics</h4>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td>
+      <a href="http://www.github.com/jccatilo"><img src="https://github-readme-stats.vercel.app/api?username=jccatilo&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="jccatilo's GitHub stats" /></a>
+    </td>
+    <td>
+      <a href="http://www.github.com/jccatilo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jccatilo&stroke=ffffff&background=1c1917&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+    </td>
+  </tr>
+</table>
+<a href="http://www.github.com/jccatilo"><img src="https://activity-graph.herokuapp.com/graph?username=jccatilo&bg_color=1c1917&color=ffffff&line=facc15&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<!--
+// Badges for github
+https://dev.to/envoy_/150-badges-for-github-pnk
+**rmarasigan/rmarasigan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some ideas to get you started:
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
