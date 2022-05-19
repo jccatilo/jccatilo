@@ -12,6 +12,7 @@
 **jccatilo/jccatilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- - 🔭 I’m currently working on cybersecurity and  -->
+
 - 🌱 I’m currently diving into the world of cybersecurity and machine learning stuff.
 - 👯 I’m looking to collaborate on Arduino-related projects, network troubleshooting, machine learning, artificial intelligence, and some python automation.
 - 😄 Pronouns: He/Him
