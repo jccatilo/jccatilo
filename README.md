@@ -1,6 +1,8 @@
 <h1 align="center">Hi there. I'm JC! 👋</h1>
 
-#### I'm a Filipino Electronics Engineer who does hardware (3D modelling, 3D printing, design and fabrication of Electronic circuits) and software (Web, Arduino, Python, and Android) development. Let's make the world a better place through automation and innovation.
+<div style="text-align: justify">
+  I'm a Filipino Electronics Engineer who does hardware (3D modelling, 3D printing, design and fabrication of Electronic circuits) and software (Web, Arduino, Python, and Android) development. Let's make the world a better place through automation and innovation.
+  </div>
 <h1 align="center"></h1>
 <p align='center'>
   <a href="https://jccatilo.github.io"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
