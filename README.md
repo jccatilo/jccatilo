@@ -1,12 +1,14 @@
-### Hi there. I'm JC! 👋
+<div align='center'>
+  ### Hi there. I'm JC! 👋
 #### I'm a Filipino Electronics Engineer who does hardware (3D modelling, 3D printing, design and fabrication of Electronic circuits) and software (Web, Arduino, Python, and Android) development. Let's make the world a better place through automation and innovation.
+  </div>
 
 <!--
 **jccatilo/jccatilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <!-- - 🔭 I’m currently working on cybersecurity and  -->
 - 🌱 I’m currently diving into the world of cybersecurity and machine learning stuff
-- 👯 I’m looking to collaborate on Arduino-related projects, network troubleshooting, machine learning, artificial intelligence, and some python works.
+- 👯 I’m looking to collaborate on Arduino-related projects, network troubleshooting, machine learning, artificial intelligence, and some python automation.
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: catilo.johncarlo07@gmail.com twitter: @jc_catilo
 - 😄 Pronouns: He/Him
