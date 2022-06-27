@@ -52,11 +52,10 @@
           <p> 
     </td>
     <td>
-      
+      <a href="http://www.github.com/jccatilo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jccatilo&theme=blue-green"/></a>
     </td>
   </tr>
 </table>
-![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jccatilo&theme=blue-green)
   
   
  
