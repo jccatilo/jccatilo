@@ -52,7 +52,7 @@
           <p> 
     </td>
     <td>
-      !My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jccatilo&theme=blue-green)
+      ![My Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jccatilo&theme=blue-green)
     </td>
   </tr>
 </table>
